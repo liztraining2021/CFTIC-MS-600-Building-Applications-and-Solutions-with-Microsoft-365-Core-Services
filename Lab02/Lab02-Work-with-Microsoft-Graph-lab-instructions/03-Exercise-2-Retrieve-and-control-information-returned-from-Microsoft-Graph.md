@@ -81,7 +81,7 @@ By the end of this exercise you will be able to use the following queries:
 
 ## Task 2: Create .NET Core console application
 
-1. Open your command prompt, navigate to a directory where you have rights to create your project, and run the following command to create a new .NET Core console application: `dotnet new console -o graphconsoleapp`
+1. Open your command prompt, navigate to a directory where you have rights to create your project, and run the following command to create a new .NET Core console application: `dotnet new console -o graphconsoleapp --framework netcoreapp3.1`
 
 1. After creating the application, run the following commands to ensure your new project runs correctly.
 
