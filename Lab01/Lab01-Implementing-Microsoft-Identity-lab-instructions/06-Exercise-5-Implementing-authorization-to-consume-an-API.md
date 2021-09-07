@@ -1,4 +1,4 @@
-﻿# Exercise 5: Implementing authorization to consume an API
+﻿﻿# Exercise 5: Implementing authorization to consume an API
 
 This exercise demonstrates how a JavaScript single-page application (SPA) can:
 
@@ -49,20 +49,16 @@ The sample application used in this exercise enables a JavaScript SPA to query t
 
 Follow these steps if you choose to use the Node.js project. For Node.js, you can set the web server port in the server.js file. This project uses port 30662, but you can use any other available port.
 
-1. To set up a redirect URL in the application registration information, switch back to the **Application Registration** pane, and do either of the following:
+1. To set up a redirect URL in the application registration information, switch back to the **Application Registration** pane, and do either of the following: (Single-Page-application **SPA**)
 
     1. Set **`http://localhost:30662/`** as the **Redirect URL**.
 
     1. If you're using a custom TCP port, use **`http://localhost:[port]/`** (where **[port]** is the custom TCP port number).
-
 1. Select **Register**.
-
 1. On the app **Overview** page, note the **Application (client) ID** value for later use.
-
 1. This sample project requires the **Implicit grant flow** to be enabled. In the left pane of the registered application, select **Authentication**.
-
 1. In **Advanced** settings, under **Implicit grant**, select the **ID tokens** and **Access tokens** check boxes. ID tokens and access tokens are required because this app must sign in users and call an API.
-
+1. In Front-channel logout URL , use **`https://localhost:[port]/`** (where **[port]** is the custom TCP port number).
 1. Select **Save**.
 
 ## Task 3: Permission and scope setup
@@ -97,13 +93,14 @@ Follow these steps if you choose to use the Node.js project. For Node.js, you ca
 
 1. Navigate back to Visual Studio Code and open the **index.html** file.
 
-1. Locate and select the following code:
+1. Locate and select the following code: (Approx. line 30)
 
     ```html
-    <div class="leftContainer">
-        <p id="WelcomeMessage">Welcome to the Microsoft Authentication Library For Javascript Quickstart</p>
-        <button id="SignIn" onclick="signIn()">Sign In</button>
-    </div>
+     <div class="btn-group ml-auto dropleft">
+          <button type="button" id="SignIn" class="btn btn-secondary" onclick="signIn()">
+            Sign In
+          </button>
+     </div>
     ```
 
 1. Replace the selected code with the following, to add a new button to the application:
@@ -112,11 +109,11 @@ Follow these steps if you choose to use the Node.js project. For Node.js, you ca
     <div class="leftContainer">
         <p id="WelcomeMessage">Welcome to the Microsoft Authentication Library For Javascript Quickstart</p>
         <button id="SignIn" onclick="signIn()">Sign In</button>
-    <button id="Share" onclick="acquireTokenPopupAndCallMSGraph()">Share</button>
+    <button id="Share" onclick="acquireTokenPopupAndCallMSGraphInc()">Share</button>
     </div>
     ```
 
-1. Locate the object **requestObj** and change the scopes to **people.read**.
+1. Locate the object **requestObj** and change the scopes to **people.read**. File:```authConfig.js```
 
     ```javascript
     var requestObj = {
@@ -124,7 +121,7 @@ Follow these steps if you choose to use the Node.js project. For Node.js, you ca
         };
     ```
 
-1. Update the graph API URL to call the people object.
+1. Update the graph API URL to call the people object. File:```graphConfig.js```
 
     ```javascript
     var graphConfig = {
@@ -133,39 +130,38 @@ Follow these steps if you choose to use the Node.js project. For Node.js, you ca
         };
     ```
 
-1. Create a new endpoint for **people.read** and replace the method **acquireTokenPopupAndCallMSGraph** with the code below.
+1. Create a new endpoint for **people.read** and replace the method **acquireTokenPopupAndCallMSGraphInc** with the code below. File:```authPopup.js``` Line: 115 before: ```selectAccount()```
 
     ```javascript
-    function acquireTokenPopupAndCallMSGraph() {
-            //Always start with acquireTokenSilent to obtain a token in the signed in user from cache
-            myMSALObj.acquireTokenSilent(requestObj).then(function (tokenResponse) {
-                callMSGraph(graphConfig.graphMePeopleEndpoint, tokenResponse.accessToken, graphAPICallback);
-            }).catch(function (error) {
-                console.log(error);
-                // Upon acquireTokenSilent failure (due to consent or interaction or login required ONLY)
-                // Call acquireTokenPopup(popup window)
-                if (requiresInteraction(error.errorCode)) {
-                    myMSALObj.acquireTokenPopup(requestObj).then(function (tokenResponse) {
-                        callMSGraph(graphConfig.graphPeopleEndpoint, tokenResponse.accessToken, graphAPICallback);
-                    }).catch(function (error) {
-                        console.log(error);
-                    });
-                }
-            });
-        }
+    function acquireTokenPopupAndCallMSGraphInc() {
+        //Always start with acquireTokenSilent to obtain a token in the signed in user from cache
+        myMSALObj.acquireTokenSilent(requestIncObj).then(function (tokenResponse) {
+            callMSGraph(graphConfig.graphMePeopleEndpoint, tokenResponse.accessToken, graphAPICallback);
+        }).catch(function (error) {
+            console.log(error);
+            // Upon acquireTokenSilent failure (due to consent or interaction or login required ONLY)
+            // Call acquireTokenPopup(popup window)
+            if (requiresInteraction(error.errorCode)) {
+                myMSALObj.acquireTokenPopup(requestIncObj).then(function (tokenResponse) {
+                    callMSGraph(graphConfig.graphPeopleEndpoint, tokenResponse.accessToken, graphAPICallback);
+                }).catch(function (error) {
+                    console.log(error);
+                });
+            }
+        });
+    }
     ```
 
-1. Find the **var msalConfig** code block and replace the following:
+1. Find the **var msalConfig** code block and replace the following: File: ```authConfig.js```
 
     1. `<Enter_the_Application_Id_here>` is the **Application (client) ID** for the application you registered.
 
     1. `<Enter_the_Tenant_info_here>` is set to one of the following options:
 
         - If your application supports **Accounts in this organizational directory**, replace this value with the **Tenant ID** or **Tenant** **name** (for example, **contoso.microsoft.com**).
-
-        - If your application supports **Accounts in any organizational directory**, replace this value with **organizations**.
-
+- If your application supports **Accounts in any organizational directory**, replace this value with **organizations**.
         - If your application supports **Accounts in any organizational directory and personal Microsoft accounts**, replace this value with **common**. To restrict support to Personal Microsoft accounts only, replace this value with **consumers**.
+- Let only *clientID* and *redirectUri* parameters, delete everything else.
 
 ## Task 4: Run the application
 
@@ -181,7 +177,7 @@ Follow these steps if you choose to use the Node.js project. For Node.js, you ca
     node server.js
     ```
 
-1. From the browser, launch: **`http://localhost:30662`**
+1. From the browser, launch: **`https://localhost:[port]/`** (where **[port]** is the custom TCP port number).
 
     ![Call localhost 30662 showing sign in screen.](../../Linked_Image_Files/l01_exercise_5_task_3_image_4.png)
 
