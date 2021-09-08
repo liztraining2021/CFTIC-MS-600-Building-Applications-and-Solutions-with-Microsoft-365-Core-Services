@@ -1,0 +1,42 @@
+Test User: Boqa5437
+
+testuser@contosomarketingljtp2021.onmicrosoft.com
+
+Tenant: brotonsmartlife.onmicrosoft.com
+
+Hello ASPNet Core Identify 01
+Application (Client) ID: eeb15eb3-f09e-4efd-a8e9-0e75e8082ac1
+Directory (tenant) ID: acaa7300-0b0d-4772-baa7-60ba6aaa5853
+
+Hello ASPNet Core Identify 02
+Application (client) ID b6ddc1c1-b777-4dd9-841e-c6761ee9ef6b
+Directory (tenant) ID acaa7300-0b0d-4772-baa7-60ba6aaa5853
+
+
+Resultado del Hello ASPNet Core Identify 02
+Claim	Value
+aio	AVQAq/8TAAAAu3GaOZcYwe1j5JjwDxo+BZB4Bvb4JiP0/3UybkvA2INQImMWwsVGs95+XoJh3M052CwtsMLdBDxzIC0u+u5P2YlKX6upi+oR94F8o0GEh+g=
+name	FNU LNU
+http://schemas.microsoft.com/identity/claims/objectidentifier	122a415f-efd0-45e5-bfb2-0315c06c28a6
+preferred_username	LuzJanneth@brotonsmartlife.onmicrosoft.com
+rh	0.AUYAAHOqrA0Lcke6p2C6aqpYU8HB3bZ3t9lNhB7Gdh7p72uBAOo.
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier	cOSRHC7nxNn_F5sFlMUQlPKB_BFDKGjqU6xhAemAn2U
+http://schemas.microsoft.com/identity/claims/tenantid	acaa7300-0b0d-4772-baa7-60ba6aaa5853
+uti	arQ0YUl4RE-9l4qUSwILAQ
+
+Hello ASPNet Core Identify 03
+Application (client) ID 8ca0ac3b-62e1-47b5-b104-2096e6a2d1bf
+Directory (tenant) ID acaa7300-0b0d-4772-baa7-60ba6aaa5853
+
+Resultado del Hello ASPNet Core Identify 03
+Claim	Value
+aio	AVQAq/8TAAAAwsnJNbjZ33D9dL5aVATfZ8GXNp2Kogg+RreRWvjYm49WFMWw+jM738sI8tZX1xF1IvJH0myPFQpYqLenei1i8pMFFolNgUNKdXPN99f8F/g=
+name	FNU LNU
+http://schemas.microsoft.com/identity/claims/objectidentifier	122a415f-efd0-45e5-bfb2-0315c06c28a6
+preferred_username	LuzJanneth@brotonsmartlife.onmicrosoft.com
+rh	0.AUYAAHOqrA0Lcke6p2C6aqpYUzusoIzhYrVHsQQgluai0b-BAOo.
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier	M1TeclOGo8f9woiGWuLsbyjSQFjo0pg6oN3MXvTnXx4
+http://schemas.microsoft.com/identity/claims/tenantid	acaa7300-0b0d-4772-baa7-60ba6aaa5853
+uti	4R465yNNSEyguyuqtRcRAQ
+
+
