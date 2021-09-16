@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <UserSecretsId>aspnet-SingleOrg-618430D4-891F-444C-A0ED-3165088CF359</UserSecretsId>
+    <UserSecretsId>aspnet-SingleOrg-354CF9AC-BCEE-4FF7-B9F3-BCC674853BD0</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

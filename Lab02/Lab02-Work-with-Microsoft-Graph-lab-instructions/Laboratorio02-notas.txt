@@ -1,0 +1,63 @@
+Laboratorio02
+Exercise 02
+Display name:Graph Console App
+Application (client) ID:21fe4553-3e21-4e68-8cf4-7435f7a4d4d3
+Object ID:f15dbe1c-c998-49c5-abf3-bece936f0e06
+Directory (tenant) ID:e3e2e848-370e-410f-8072-496dd495c855
+Redirect URIs :  https://localhost
+
+Description     Expires           Value                                 Secret ID
+6 meses       3/12/2022   Hk_V7zAfa2dl6mmBKnT2z~1.DG.wl7QdJW   0472727d-7311-45a9-9081-9e79a8f604f4
+
+Hello World!
+cf1a0368-e6bb-4d55-8313-14e9756c63ed: Adele Vance <AdeleV@totalserviceslgm.onmicrosoft.com>
+5fe08a19-b540-4378-a7c0-5097b81fd739: Alex Wilber <AlexW@totalserviceslgm.onmicrosoft.com>
+e10c890c-2a08-4d66-8fd3-9918beca65f3: Diego Siciliani <DiegoS@totalserviceslgm.onmicrosoft.com>
+a735877f-1f40-4e63-9009-e4757ee04558: Grady Archie <GradyA@totalserviceslgm.onmicrosoft.com>
+b860f725-4c59-4ee3-a342-12760b1acb1a: Henrietta Mueller <HenriettaM@totalserviceslgm.onmicrosoft.com>
+e3234da4-0a56-4c9e-8885-8bce1528ccb3: Isaiah Langer <IsaiahL@totalserviceslgm.onmicrosoft.com>
+1df4bc31-9a11-470d-af6b-6ad2d00d9dde: Johanna Lorenz <JohannaL@totalserviceslgm.onmicrosoft.com>
+aa980155-22e4-4bdc-88d7-8f903ab3704a: Joni Sherman <JoniS@totalserviceslgm.onmicrosoft.com>
+90026263-a7c7-464c-a34d-1c0288b5a1d8: Lee Gu <LeeG@totalserviceslgm.onmicrosoft.com>
+d3e3cd75-26ed-4f62-9bc2-715a98b80190: Lidia Holloway <LidiaH@totalserviceslgm.onmicrosoft.com>
+165f43b3-354c-4884-a53c-3e68190a27ce: Lynne Robbins <LynneR@totalserviceslgm.onmicrosoft.com>
+9f1152ac-2068-4ec9-aa7a-62184e24cb57: Megan Bowen <MeganB@totalserviceslgm.onmicrosoft.com>
+078e51b1-f4fc-4942-af10-eb7e6085d017: Miriam Graham <MiriamG@totalserviceslgm.onmicrosoft.com>
+76152be6-704c-4e70-9681-8315a64e185f: Nestor Wilke <NestorW@totalserviceslgm.onmicrosoft.com>
+ab4c2f7b-c0d0-4d49-abca-a60e9f5043c0: Patti Fernandez <PattiF@totalserviceslgm.onmicrosoft.com>
+1f3472aa-a281-421e-a92a-d7ebc40aa399: Pradeep Gupta <PradeepG@totalserviceslgm.onmicrosoft.com>
+11d77aa0-e385-445e-87f3-5f6bd65ae5dd: Test User <testuser@contosomarketinglgm2021.onmicrosoft.com>
+c8983ea0-11f2-4805-8b57-43c6757c76de: FNU LNU <totalserviceslgm@totalserviceslgm.onmicrosoft.com>
+
+Graph Request:
+https://graph.microsoft.com/v1.0/users
+
+Exercicio 03
+
+Display name:Graph Notification Tutorial
+Application (client) ID:b2eabc86-54ad-4bd9-af32-5c5d072c3f75
+Object ID:65e8f148-db75-429c-bf01-b345d91d5b0d
+Directory (tenant) ID:e3e2e848-370e-410f-8072-496dd495c855
+
+Description      Expires              Value                                         Secret ID
+Forever          9/13/2022   96xuKY2f_Rs7A3yFU1B1UEupBM.w_ex-V9         06b515ba-98b4-45a6-8859-c8445c07060d
+
+              
+Direccion ngrok : https://6d06-188-26-212-76.ngrok.io -> http://localhost:5000  
+				  https://edb4-188-26-212-76.ngrok.io
+				  
+Exercicio 05
+Display name:Graph Console Throttle App
+Application (client) ID:4d183cee-b065-498e-be99-1f4cf73edfa6
+Object ID:88dd775d-ddb8-4a09-a36e-0ba4212c80ba
+Directory (tenant) ID:e3e2e848-370e-410f-8072-496dd495c855
+
+totalserviceslgm@totalserviceslgm.onmicrosoft.com
+Graph Console Throttle App ==> Registrar aplicacionluego autheticacion: destok y mobile y luego permisos mail read
+testuser_contosomarketinglgm2021.onmicrosoft.com#EXT#@totalserviceslgm.onmicrosoft.com
+para cambiar el multifactor a un usuario==> Active directory==<seguridad==> condicional acces==>
+ AD==> user==>Diego siciliani==>reset pas==>DiegoS@totalserviceslgm.onmicrosoft.com 
+AD==<propiedades==>	manage seguridad default==>	enable security defaults=NO , seleccionas en todo y saveAD==> 
+AD==>user==>Per-user MFA==>
+user==>authentication metod==>revocar sesiones MFA
+

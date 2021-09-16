@@ -1,0 +1,84 @@
+ms-600 ejercicio 1
+Lab 01
+Name totalserviceslgm
+Tenant ID: e3e2e848-370e-410f-8072-496dd495c855
+Primary domain: totalserviceslgm.onmicrosoft.com
+
+Name Contoso Marketing Company
+Tenant ID 1bdae57d-18b2-4f7d-9cd6-6749245c7e96
+Primary domain: contosomarketinglgm2021.onmicrosoft.com
+username: testuser
+Password: Nova3553 ==>liz2021++
+testuser@contosomarketinglgm2021.onmicrosoft.com
+
+ToTaL Services SL: SOLUCIONES EN UN MUNDO EN ...https://totalservicessl.com
+https://totalservicessl.com/aviso-legal/
+
+Display name: Hello ASPNET Core Identity 01
+Application (client) ID: af5b0c6d-e096-4141-a2f3-c8734c76489f
+Object ID: 514a38fb-a849-4d34-ae06-12ee31ee8522
+Directory (tenant) ID: e3e2e848-370e-410f-8072-496dd495c855
+
+
+
+Claim	Value
+aio	AVQAq/8TAAAA1Q1qOYSRHmoVEcHKVM3sS61P9KCC8Cu4oAC162MHnlLFNEiZtAedQBR7MRAf/XHmHfiACmsUR3gPYeaxgF7CEgoKlY/Ps9WrTcHXeA3rBQI=
+name	FNU LNU
+http://schemas.microsoft.com/identity/claims/objectidentifier	c8983ea0-11f2-4805-8b57-43c6757c76de
+preferred_username	totalserviceslgm@totalserviceslgm.onmicrosoft.com
+rh	0.AQIASOji4w43D0GAcklt1JXIVW0MW6-W4EFBovPIc0x2SJ-CAA8.
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier	9n98abnIv34Zr5VK13hXKYX48bgKa21CIRUXl-TYpoA
+http://schemas.microsoft.com/identity/claims/tenantid	e3e2e848-370e-410f-8072-496dd495c855
+uti	XC7AnfzQykq9oAyrU1FGAA
+------------------------------
+Claim	Value
+aio	AVQAq/8TAAAA1+wE08vmhD77FR/9A1tro1n/09AlS5Ou6v+gnfWj9LnpfGImUlOOBVrb2y3btS5dPBRM1XPUUOiAAW2hdqIF2SxR/W/zZA4BDmYJtCe/xAY=
+name	FNU LNU
+http://schemas.microsoft.com/identity/claims/objectidentifier	c8983ea0-11f2-4805-8b57-43c6757c76de
+preferred_username	totalserviceslgm@totalserviceslgm.onmicrosoft.com
+rh	0.AQIASOji4w43D0GAcklt1JXIVQwvSHmqgPNNiRxiaZ1U9u2CAA8.
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier	OzFeK0zTeGcQm-h6KaTDW2wTOG6wD5nh-_-Hg1dlnSo
+http://schemas.microsoft.com/identity/claims/tenantid	e3e2e848-370e-410f-8072-496dd495c855
+uti	GfXawH4MbEqT-KTxJaVXAA
+
+
+Display name:Hello ASPNET Core Identity 02
+Application (client) ID:79482f0c-80aa-4df3-891c-62699d54f6ed
+Object ID:2c81092e-f235-4eb0-9c93-e50ad87940b1
+Directory (tenant) ID:e3e2e848-370e-410f-8072-496dd495c855
+
+Display name:Hello ASPNET Core Identity 03
+Application (client) ID:5334ffcd-dbfd-410c-a47b-541918c1c8a9
+Object ID:4f13a549-4583-4fc2-b5c2-264f12b6d644
+Directory (tenant) ID:e3e2e848-370e-410f-8072-496dd495c855
+
+
+Claim	Value
+aio	AVQAq/8TAAAAXh83w08ONw0wmj9lzyY4LHF1tjex+pGCiM3OaY8EdkM/FJD1nS0FfR780+/+MuIdiJOrb7iDOseuPV40kRcHoParGXxqHb8IaOfu5hyctFg=
+name	FNU LNU
+http://schemas.microsoft.com/identity/claims/objectidentifier	c8983ea0-11f2-4805-8b57-43c6757c76de
+preferred_username	totalserviceslgm@totalserviceslgm.onmicrosoft.com
+rh	0.AQIASOji4w43D0GAcklt1JXIVc3_NFP92wxBpHtUGRjByKmCAA8.
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier	HjJ2xdb9lsWYva0w2ijnIjkk6I0gBBi_XvlrHwzFM0o
+http://schemas.microsoft.com/identity/claims/tenantid	e3e2e848-370e-410f-8072-496dd495c855
+uti	RnWVn9GSaUO3VlkksspDAA
+
+Exercise 4
+Display name:ContosoApp
+Application (client) ID:f24714d2-2974-4cae-9a27-8e0f0e7b9843
+Object ID:492cbb64-b9c8-4326-8265-8e5a1a77cb46
+Directory (tenant) ID:e3e2e848-370e-410f-8072-496dd495c855
+
+Exercise 5
+http://localhost:30662/
+
+Display name:JavaScript-SPA-App
+Application (client) ID:d39757ca-ca10-40d3-afd6-4f857656ce5a
+Object ID:5e5d9c43-2faa-4755-adfb-a9e73f551a3f
+Directory (tenant) ID:e3e2e848-370e-410f-8072-496dd495c855
+
+Display name:Hello World Identity
+Application (client) ID:3de48c80-3a01-476a-979d-59ba5e66a196
+Object ID:5c2903a3-da30-4ff0-9ab6-11ee2fac927b
+Directory (tenant) ID:e3e2e848-370e-410f-8072-496dd495c855
+
