@@ -1,0 +1,48 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.8/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.8",
+  "id": "f646a1d0-1d86-11ec-80ba-e74ab6de8dc6",
+  "version": "0.0.1",
+  "packageName": "learnmsteamstabs",
+  "developer": {
+    "name": "TotalServicesLGM",
+    "websiteUrl": "https://2579-188-26-212-81.ngrok.io",
+    "privacyUrl": "https://2579-188-26-212-81.ngrok.io/privacy.html",
+    "termsOfUseUrl": "https://2579-188-26-212-81.ngrok.io/tou.html"
+  },
+  "name": {
+    "short": "Learn MSTeams Tabs",
+    "full": "Learn MSTeams Tabs"
+  },
+  "description": {
+    "short": "TODO: add short description here",
+    "full": "TODO: add full description here"
+  },
+  "icons": {
+    "outline": "icon-outline.png",
+    "color": "icon-color.png"
+  },
+  "accentColor": "#D85028",
+  "configurableTabs": [],
+  "staticTabs": [
+    {
+      "entityId": "37c5f2a3-dd82-4510-9b30-04c7942c6077",
+      "name": "LearnPersonalTab",
+      "contentUrl": "https://2579-188-26-212-81.ngrok.io/learnPersonalTab/?name={loginHint}&tenant={tid}&theme={theme}",
+      "scopes": [
+        "personal"
+      ]
+    }
+  ],
+  "bots": [],
+  "connectors": [],
+  "composeExtensions": [],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [
+    "2579-188-26-212-81.ngrok.io"
+  ],
+  "showLoadingIndicator": false
+}

@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/62f86038-ecb6-4442-bdb8-0e364cc8a884/resourceGroups/teamsmsgraph/providers/Microsoft.Web/sites/webnodelgm",
+    "appService.deploySubpath": "."
+}

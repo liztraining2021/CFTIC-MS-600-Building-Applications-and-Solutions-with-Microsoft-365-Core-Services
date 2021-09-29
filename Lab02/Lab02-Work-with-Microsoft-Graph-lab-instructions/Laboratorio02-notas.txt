@@ -61,3 +61,7 @@ AD==<propiedades==>	manage seguridad default==>	enable security defaults=NO , se
 AD==>user==>Per-user MFA==>
 user==>authentication metod==>revocar sesiones MFA
 
+Exercise 06
+
+Adele  "userPrincipalName": "AdeleV@totalserviceslgm.onmicrosoft.com","id": "cf1a0368-e6bb-4d55-8313-14e9756c63ed"
+Miriam : 078e51b1-f4fc-4942-af10-eb7e6085d017

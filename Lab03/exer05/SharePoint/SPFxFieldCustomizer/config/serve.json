@@ -1,0 +1,31 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://totalserviceslgm.sharepoint.com/sites/totalserviceslgm/Lists/Work%20Status/AllItems.aspx",
+      "fieldCustomizers": {
+        "PercentComplete": {
+          "id": "7af5eb15-4ea7-4518-a781-fc188b163d77",
+          "properties": {
+              "greenMinLimit": "85",        
+              "yellowMinLimit": "70"
+          }
+        }
+      }
+    },
+    "helloFieldCustomizer": {
+      "pageUrl": "https://totalserviceslgm.sharepoint.com/sites/totalserviceslgm/Lists/Work%20Status/AllItems.aspx",
+      "fieldCustomizers": {
+        "InternalFieldName": {
+          "id": "7af5eb15-4ea7-4518-a781-fc188b163d77",
+          "properties": {
+              "greenMinLimit": "85",        
+              "yellowMinLimit": "70"
+          }
+        }
+      }
+    }
+  }
+}

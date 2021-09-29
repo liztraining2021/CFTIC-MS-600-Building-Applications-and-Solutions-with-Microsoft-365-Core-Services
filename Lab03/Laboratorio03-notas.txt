@@ -1,0 +1,30 @@
+Laboratorio3
+ejercicio 01
+totalserviceslgm@totalserviceslgm.onmicrosoft.com
+https://totalserviceslgm.sharepoint.com/_layouts/15/sharepoint.aspx?
+/_layouts/workbench.aspx
+https://totalserviceslgm.sharepoint.com/_layouts/workbench.aspx
+
+Ejercicio 03
+https://contoso.sharepoint.com/sites/mySite/SitePages/myPage.aspx"
+https://totalserviceslgm.sharepoint.com/sites/totalserviceslgm/SitePages/Home.aspx
+https://totalserviceslgm.sharepoint.com/_layouts/workbench.aspx
+
+"skipFeatureDeployment": true,
+
+https://totalserviceslgm.sharepoint.com/sites/appcatalog/Lists/TenantWideExtensions/AllItems.aspx
+
+Ejercicio 04
+https://contoso.sharepoint.com/sites/Group/Lists/Orders/AllItems.aspx",
+https://contoso.sharepoint.com/sites/mySite/SitePages/myPage.aspx
+
+https://totalserviceslgm.sharepoint.com/sites/TheLanding/Lists/Command%20Set%20List/AllItems.aspx?origin=createList
+https://totalserviceslgm.sharepoint.com/sites/TheLanding/Lists/Command%20Set%20List/AllItems.aspx
+https://totalserviceslgm.sharepoint.com/sites/TheLanding/SitePages/Home.aspx
+
+ejercicio 05
+https://totalserviceslgm.sharepoint.com/sites/totalserviceslgm/Lists/Work%20Status/AllItems.aspx?origin=createList&viewid=887d6423%2D85ba%2D4c5c%2D8671%2Dbda7be06bffa
+https://totalserviceslgm.sharepoint.com/sites/totalserviceslgm/Lists/Work%20Status/AllItems.aspx
+
+ejercicio 06
+https://totalserviceslgm.sharepoint.com

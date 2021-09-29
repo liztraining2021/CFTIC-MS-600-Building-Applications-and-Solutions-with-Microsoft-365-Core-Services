@@ -1,0 +1,198 @@
+Laboratorio 04
+***Exer01***
+http: // localhost: 3007
+gulp ngrok-serve
+url ngrok: https://1465-2a0c-5a81-c100-df00-7514-9c7e-6d88-c1de.ngrok.io
+https://1465-2a0c-5a81-c100-df00-7514-9c7e-6d88-c1de.ngrok.io/youtubeplayer1tab/index.html
+
+entityID: 78390bcf-5e00-4d13-83a3-46dd6c79cad3
+id de Youtube: lEH4vtaxp4
+Otra url ngrok: https://a285-2a0c-5a81-c100-df00-7514-9c7e-6d88-c1de.ngrok.io
+nuevo url ngrok:https://5dab-2a0c-5a81-c100-df00-7514-9c7e-6d88-c1de.ngrok.io
+otro url ngrok version 4: https://ef93-2a0c-5a81-c100-df00-7514-9c7e-6d88-c1de.ngrok.io
+
+***Exer02***
+VIEH4vtaxp4
+https://teams.microsoft.com/l/task/<APP_ID>?url=<TaskInfo.url>&height=<TaskInfo.height>&width=<TaskInfo.width>&title=<TaskInfo.title>
+***
+https://teams.microsoft.com/l/task/4b78a260-1b30-11ec-8cf4-9d1508161e14?url=https://0dec-2a0c-5a81-c100-df00-4470-39d2-198b-a04a.ngrok.io/youTubePlayer1Tab/player.html?vid=uErR_3kmRUM&height=700&width=1000&title=Revisión%20de%20Videos
+***
+url ngrok version 5: https://0dec-2a0c-5a81-c100-df00-4470-39d2-198b-a04a.ngrok.io
+https://{{REPLACE_WITH_YOUR_NGROK_URL}}/youTubePlayer1Tab/player.html?vid=VlEH4vtaxp4
+******
+https://0dec-2a0c-5a81-c100-df00-4470-39d2-198b-a04a.ngrok.io/youTubePlayer1Tab/player.html?vid=uErR_3kmRUM
+******
+https://teams.microsoft.com/l/task/3386faf0-109f-11ea-9799-77a28170bd5d?url=https://{{REPLACE_WITH_YOUR_NGROK_URL}}/youTubePlayer1Tab/player.html?vid=VlEH4vtaxp4&height=700&width=1000&title=YouTube%20Player:%20Overview%20of%20teams%20and%20channels
+mensaje para publicar en el canal.
+ID Video: https://youtu.be/uErR_3kmRUM
+
+AplicationId de la aplicacion: está en el manifiesto del package .zip de la aplicacion que genera el ngrok 
+en esta ruta C:\CFTIC-MS-600-Evidencia\Lab04\exer02\learn-msteams-taskmodules\package:  "id": "4b78a260-1b30-11ec-8cf4-9d1508161e14"
+
+***Exer03***
+
+npm install gulp --global
+hay que agregar una nueva variable al environment o entrono que se llama NODE_PATH
+BOTS: totalbotLGM
+recurso: totalserviceslgmBOTS
+Messaging endpoint: https://REPLACE_THIS.ngrok.io/api/messages
+Messaging Endpoint: https://accf-2a0c-5a81-c100-df00-4470-39d2-198b-a04a.ngrok.io/api/messages
+Display name:totalbotLGM
+Application (client) ID:714c638d-aace-4993-acfb-011f04b6ac9d
+Object ID:1566fb11-5f92-44c3-8e61-0482fd3c5c50
+Directory (tenant) ID:e3e2e848-370e-410f-8072-496dd495c855
+
+gulp ngrok-serve
+ngrok url: https://accf-2a0c-5a81-c100-df00-4470-39d2-198b-a04a.ngrok.io
+
+Microsoft App ID: 714c638d-aace-4993-acfb-011f04b6ac9d
+secret: secrettotalbotLGM
+value secret: F-C7Q~~r6TD4WCp0iyMJs5cgfdm2XGX7Ux77k
+Secred ID: f377e650-b192-4e4c-aaa1-dc4e67f0b75b
+MentionMe
+
+url ngrok version 6: https://8a03-2a0c-5a81-c100-df00-4470-39d2-198b-a04a.ngrok.io
+https://80cc-2a0c-5a81-c100-df00-90d5-3e39-e748-6ed1.ngrok.io
+https://54f9-2a0c-5a81-c100-df00-90d5-3e39-e748-6ed1.ngrok.io
+process.env.HOSTNAME
+hay que poner en el env la variable: HOSTNAME=54f9-2a0c-5a81-c100-df00-90d5-3e39-e748-6ed1.ngrok.io
+
+***Exerc04***
+ https://7a8c-2a0c-5a81-c100-df00-8ca4-baeb-46d4-4025.ngrok.io
+ 
+ Callback URL: https://7a8c-2a0c-5a81-c100-df00-8ca4-baeb-46d4-4025.ngrok.io/api/webhook
+ security token teams: 7dysx7vhYo2/svNPZvt4QsIrdQeNA53cewpuVqItvh0=
+ 
+***Exerc05***
+ url EndPoint incoming webhook: https://totalserviceslgm.webhook.office.com/webhookb2/5551a853-7715-4f37-ba7f-8ca5d5cd6ef9@e3e2e848-370e-410f-8072-496dd495c855/IncomingWebhook/d1429f9c51b04042a6510ce8d0ec549c/c8983ea0-11f2-4805-8b57-43c6757c76de
+ 
+***Exerc06***
+Ngrok Url: https://45c9-2a0c-5a81-c100-df00-8ca4-baeb-46d4-4025.ngrok.io
+https://45c9-2a0c-5a81-c100-df00-8ca4-baeb-46d4-4025.ngrok.io/learnPersonalTab/index.html
+https://2579-188-26-212-81.ngrok.io/learnPersonalTab/index.html?theme=dark
+Entity ID: 37c5f2a3-dd82-4510-9b30-04c7942c6077
+
+***Exerc07***
+Ngrok Url: https://4e41-188-26-212-81.ngrok.io
+https://eb3a-188-26-212-81.ngrok.io
+https://f478-188-26-212-81.ngrok.io
+
+***Exer08***
+Messaging endpoint: https://3559-188-26-212-81.ngrok.io/api/messages
+Microsoft app ID-Aplication ID del Bot: 996d94e0-5aa1-4736-b875-57b298248868
+Value Secreto: pwn7Q~x1kWb.PxgJfCcdnPpXZ0eNl.moIiXFq
+secret id: 47bd539a-50ab-42f8-a054-a9b343e43816
+
+"composeExtensions": [
+  {
+    "botId": "996d94e0-5aa1-4736-b875-57b298248868",
+    "canUpdateConfiguration": false,
+    "commands": [
+      {
+        "id": "planetExpanderAction",
+        "type": "action",
+        "title": "Planet Expander",
+        "description": "Lookup the details of a planet.",
+        "context": [
+          "compose",
+          "message"
+        ],
+        "fetchTask": true
+      }
+    ]
+  }
+]
+
+[NGROK] Url: https://bd08-188-26-212-81.ngrok.io
+https://3559-188-26-212-81.ngrok.io
+https://b460-188-26-212-81.ngrok.io
+
+***Exer09***
+[NGROK] Url: https://9bad-188-26-212-81.ngrok.io
+
+***Exer10***
+Botlab4Exer10
+Microsoft App Id de Azure: 68a8785e-bdb4-42ea-b76a-f8bb21f86f55
+Secret value: Ysb7Q~f5y8arIkPdBHpDpOaVznOU7CV8UyMDA
+Conversational Bot
+[NGROK] Url: https://9eca-188-26-212-81.ngrok.io
+codigo Generate Teams(id del manifiesto):318d7949-c269-4dba-8449-98b5742f92a4
+            {
+              "title": "Help",
+              "description": "Shows help information"
+            },
+[NGROK] Url: https://c2ad-188-26-212-81.ngrok.io			
+
+
+
+
+
+***Exer13***
+Application (client) ID: c719f4a2-9b5e-49fc-946a-6e3dd58b42a0
+
+https://127.0.0.1.ngrok.io
+Task1: actualizar 
+[NGROK] Url: https://b0e7-188-26-212-81.ngrok.io
+api://b0e7-188-26-212-81.ngrok.io/c719f4a2-9b5e-49fc-946a-6e3dd58b42a0
+SecretoEjer13Lab4LGM   ==> 0iW7Q~o0SGJfZQ2togYabaqqrQw8pem59ecI1
+
+api://b0e7-188-26-212-81.ngrok.io/c719f4a2-9b5e-49fc-946a-6e3dd58b42a0/access_as_user
+
+https://7571-188-26-212-81.ngrok.io
+
+Para cambiar el Ngrok: hay que cambiarlo en 4 lugares :
+1) en Azure My Teams SSO App==> Authentication==> Redirect URIs
+2) En Expose an API==>Application ID URI
+3) En el Manifiesto ==> "webApplicationInfo": {
+    "id": "c719f4a2-9b5e-49fc-946a-6e3dd58b42a0",
+    "resource": "api://7571-188-26-212-81.ngrok.io/c719f4a2-9b5e-49fc-946a-6e3dd58b42a0"
+4) En el ENV ==> TAB_APP_URI=api: y en PUBLIC_HOSTNAME=
+Fut73341 ==>adelev@totalserviceslgm.onmicrosoft.com
+https://e5f6-188-26-212-81.ngrok.io
+
+***Exerc14***
+# La practica del ejercicio 14 está realizado sobre el ejercicio 13 del Lab04
+document.docx and workbook.docx.
+
+document WORD ID: 2C38D230-E5CF-4ACC-A610-45A0E4F3D23B
+document WORD URL: https://totalserviceslgm.sharepoint.com/sites/totalserviceslgm/Shared%20Documents/document.docx
+
+https://totalserviceslgm.sharepoint.com/sites/totalserviceslgm/Shared%20Documents/Forms/AllItems.aspx
+    ?RootFolder=%2Fsites%2Ftotalserviceslgm%2FShared%20Documents%2FGeneral&FolderCTID=0x0120001D6828BA641B1D45BFF3CAE737A162C3
+https://totalserviceslgm.sharepoint.com/:w:/r/sites/totalserviceslgm/_layouts/15/Doc.aspx
+       ?sourcedoc=%7B2C38D230-E5CF-4ACC-A610-45A0E4F3D23B%7D&file=document.docx
+	   &action=default
+	   &mobileredirect=true
+
+document EXCEL ID: 9291452B-4E79-4B2A-936C-93C3D20556D9
+document EXCEL URL:https://totalserviceslgm.sharepoint.com/sites/totalserviceslgm/Shared%20Documents/workbook.xlsx
+
+https://totalserviceslgm.sharepoint.com/sites/totalserviceslgm/Shared%20Documents/Forms/AllItems.aspx
+?RootFolder=%2Fsites%2Ftotalserviceslgm%2FShared%20Documents%2FGeneral&FolderCTID=0x0120001D6828BA641B1D45BFF3CAE737A162C3
+
+https://totalserviceslgm.sharepoint.com/:x:/r/sites/totalserviceslgm/_layouts/15/Doc.aspx
+     ?sourcedoc=%7B9291452B-4E79-4B2A-936C-93C3D20556D9%7D
+     &file=workbook.xlsx
+	 &action=default
+	 &mobileredirect=true
+
+[NGROK] Url: https://d776-188-26-212-81.ngrok.io
+
+***Exerc15***
+https://webnodelgm.azurewebsites.net
+objet id de Adele: cf1a0368-e6bb-4d55-8313-14e9756c63ed
+Fut73341 ==>adelev@totalserviceslgm.onmicrosoft.com
+https://webnodelgm.azurewebsites.net/
+
+***Exerc16***
+16-MyTeamsSSOApp
+Aplication ID: fe37ab0c-9500-41a0-bb31-8a97679c86b4
+https://webnodelgm.azurewebsites.net
+https://webnodelgm.azurewebsites.net/auth-end
+secret16-myteamssso   ==> i9g7Q~eetJj8UOvXRs1PO0iBT315Ywg4z6sGz
+
+
+***Exerc17***
+Aplication ID: fe37ab0c-9500-41a0-bb31-8a97679c86b4
+App service:teamsSSOapplgm
+URL: https://teamsssoapplgm.azurewebsites.net

@@ -1,0 +1,60 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.8/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.8",
+  "id": "8ba7df50-1f67-11ec-92ef-054f9b59b243",
+  "version": "0.0.1",
+  "packageName": "learnmsteamsteamwork",
+  "developer": {
+    "name": "TotalServicesLGM",
+    "websiteUrl": "https://webnodelgm.azurewebsites.net",
+    "privacyUrl": "https://webnodelgm.azurewebsites.net/privacy.html",
+    "termsOfUseUrl": "https://webnodelgm.azurewebsites.net/tou.html"
+  },
+  "name": {
+    "short": "MSGraph Playground",
+    "full": "MSGraph Playground"
+  },
+  "description": {
+    "short": "TODO: add short description here",
+    "full": "TODO: add full description here"
+  },
+  "icons": {
+    "outline": "icon-outline.png",
+    "color": "icon-color.png"
+  },
+  "accentColor": "#D85028",
+  "configurableTabs": [
+    {
+      "configurationUrl": "https://webnodelgm.azurewebsites.net/msGraphTeamworkTab/config.html?name={loginHint}&tenant={tid}&group={groupId}&theme={theme}",
+      "canUpdateConfiguration": true,
+      "scopes": [
+        "team"
+      ]
+    }
+  ],
+  "staticTabs": [],
+  "bots": [],
+  "connectors": [],
+  "composeExtensions": [],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [
+    "webnodelgm.azurewebsites.net"
+  ],
+  "showLoadingIndicator": false,
+  "webApplicationInfo": {
+    "id": "c719f4a2-9b5e-49fc-946a-6e3dd58b42a0",
+    "resource": "api://webnodelgm.azurewebsites.net/c719f4a2-9b5e-49fc-946a-6e3dd58b42a0"
+  },
+  "activities": {
+    "activityTypes": [
+      {
+        "type": "userMention",
+        "description": "Personal Mention Activity",
+        "templateText": "{actor} added the {tabName} tab to the {teamName}'s | {channelName} channel"
+      }
+    ]
+  }  
+}

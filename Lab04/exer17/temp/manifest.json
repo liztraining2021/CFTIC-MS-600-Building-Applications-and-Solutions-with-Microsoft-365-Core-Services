@@ -1,0 +1,51 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.8/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.8",
+  "id": "063d7710-2040-11ec-a6cb-39cd2dfa66b9",
+  "version": "0.0.1",
+  "packageName": "learnmsteamsssotab",
+  "developer": {
+    "name": "TotalServicesLGM",
+    "websiteUrl": "https://webnodelgm.azurewebsites.net",
+    "privacyUrl": "https://webnodelgm.azurewebsites.net/privacy.html",
+    "termsOfUseUrl": "https://webnodelgm.azurewebsites.net/tou.html"
+  },
+  "name": {
+    "short": "SSO Teams Tab",
+    "full": "SSO Teams Tab"
+  },
+  "description": {
+    "short": "TODO: add short description here",
+    "full": "TODO: add full description here"
+  },
+  "icons": {
+    "outline": "icon-outline.png",
+    "color": "icon-color.png"
+  },
+  "accentColor": "#D85028",
+  "configurableTabs": [
+    {
+      "configurationUrl": "https://webnodelgm.azurewebsites.net/ssoTab/config.html?name={loginHint}&tenant={tid}&group={groupId}&theme={theme}",
+      "canUpdateConfiguration": true,
+      "scopes": [
+        "team"
+      ]
+    }
+  ],
+  "staticTabs": [],
+  "bots": [],
+  "connectors": [],
+  "composeExtensions": [],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [
+    "webnodelgm.azurewebsites.net"
+  ],
+  "showLoadingIndicator": false,
+  "webApplicationInfo": {
+    "id": "fe37ab0c-9500-41a0-bb31-8a97679c86b4",
+    "resource": "api://webnodelgm.azurewebsites.net/fe37ab0c-9500-41a0-bb31-8a97679c86b4"
+  }
+}
