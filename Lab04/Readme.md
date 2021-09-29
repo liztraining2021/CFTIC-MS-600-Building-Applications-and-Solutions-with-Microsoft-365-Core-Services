@@ -558,7 +558,25 @@
 
 # Ejercicio 18
 
+![Lab4-Ejer18-T1a](ZZ-lab/Lab4-Ejer18-T1a.PNG)
 
+![Lab4-Ejer18-T1b](ZZ-lab/Lab4-Ejer18-T1b.PNG)
+
+![Lab4-Ejer18-T1c](ZZ-lab/Lab4-Ejer18-T1c.PNG)
+
+![Lab4-Ejer18-T2a](ZZ-lab/Lab4-Ejer18-T2a.PNG)
+
+![Lab4-Ejer18-T5a](ZZ-lab/Lab4-Ejer18-T5a.PNG)
+
+![Lab4-Ejer18-T5b](ZZ-lab/Lab4-Ejer18-T5b.PNG)
+
+![Lab4-Ejer18-T5c](ZZ-lab/Lab4-Ejer18-T5c.PNG)
+
+![Lab4-Ejer18-T5d](ZZ-lab/Lab4-Ejer18-T5d.PNG)
+
+![Lab4-Ejer18-T5e](ZZ-lab/Lab4-Ejer18-T5e.PNG)
+
+![Lab4-Ejer18-T5f](ZZ-lab/Lab4-Ejer18-T5f.PNG)
 
 
 
