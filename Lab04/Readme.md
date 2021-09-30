@@ -429,13 +429,49 @@
 
 ![Lab4-Ejer10-T3d](ZZ-lab/Lab4-Ejer10-T3d.PNG)
 
+
+
 # Ejercicio 11
+
+![Lab4-Ejer11-T1a](ZZ-lab/Lab4-Ejer11-T1a.PNG)
+
+![Lab4-Ejer11-T1b](ZZ-lab/Lab4-Ejer11-T1b.PNG)
+
+![Lab4-Ejer11-T1c](ZZ-lab/Lab4-Ejer11-T1c.PNG)
+
+![Lab4-Ejer11-T1d](ZZ-lab/Lab4-Ejer11-T1d.PNG)
+
+![Lab4-Ejer11-T1e](ZZ-lab/Lab4-Ejer11-T1e.PNG)
+
+![Lab4-Ejer11-T1f](ZZ-lab/Lab4-Ejer11-T1f.PNG)
+
+![Lab4-Ejer11-T1g](ZZ-lab/Lab4-Ejer11-T1g.PNG)
+
+![Lab4-Ejer11-T1h](ZZ-lab/Lab4-Ejer11-T1h.PNG)
+
+![Lab4-Ejer11-T1i](ZZ-lab/Lab4-Ejer11-T1i.PNG)
+
+![Lab4-Ejer11-T2a](ZZ-lab/Lab4-Ejer11-T2a.PNG)
+
+![Lab4-Ejer11-T2b](ZZ-lab/Lab4-Ejer11-T2b.PNG)
+
+![Lab4-Ejer11-T2c](ZZ-lab/Lab4-Ejer11-T2c.PNG)
+
+![Lab4-Ejer11-T2d](ZZ-lab/Lab4-Ejer11-T2d.PNG)
+
+![Lab4-Ejer11-T3a](ZZ-lab/Lab4-Ejer11-T3a.PNG)
+
+![Lab4-Ejer11-T3b](ZZ-lab/Lab4-Ejer11-T3b.PNG)
+
+![Lab4-Ejer11-T3c](ZZ-lab/Lab4-Ejer11-T3c.PNG)
 
 
 
 # Ejercicio 12
 
+![Lab4-Ejer12-T1a](ZZ-lab/Lab4-Ejer12-T1a.PNG)
 
+![Lab4-Ejer12-T1b](ZZ-lab/Lab4-Ejer12-T1b.PNG)
 
 # Ejercicio 13
 
@@ -555,6 +591,8 @@
 ![Lab4-Ejer17-T5b](ZZ-lab/Lab4-Ejer17-T5b.PNG)
 
 ![Lab4-Ejer17-T5c](ZZ-lab/Lab4-Ejer17-T5c.PNG)
+
+
 
 # Ejercicio 18
 

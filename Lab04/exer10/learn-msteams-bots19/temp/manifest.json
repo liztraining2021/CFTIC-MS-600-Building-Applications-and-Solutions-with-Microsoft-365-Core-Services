@@ -2,13 +2,13 @@
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.9/MicrosoftTeams.schema.json",
   "manifestVersion": "1.9",
   "id": "318d7949-c269-4dba-8449-98b5742f92a4",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "packageName": "conversationalbot",
   "developer": {
     "name": "TotalServicesLGM",
-    "websiteUrl": "https://c2ad-188-26-212-81.ngrok.io",
-    "privacyUrl": "https://c2ad-188-26-212-81.ngrok.io/privacy.html",
-    "termsOfUseUrl": "https://c2ad-188-26-212-81.ngrok.io/tou.html"
+    "websiteUrl": "https://38fa-188-26-212-81.ngrok.io",
+    "privacyUrl": "https://38fa-188-26-212-81.ngrok.io/privacy.html",
+    "termsOfUseUrl": "https://38fa-188-26-212-81.ngrok.io/tou.html"
   },
   "name": {
     "short": "Conversational Bot",
@@ -61,7 +61,7 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "c2ad-188-26-212-81.ngrok.io"
+    "38fa-188-26-212-81.ngrok.io"
   ],
   "showLoadingIndicator": false
 }

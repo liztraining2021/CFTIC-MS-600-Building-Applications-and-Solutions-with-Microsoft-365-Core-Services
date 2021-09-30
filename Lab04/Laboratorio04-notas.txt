@@ -123,8 +123,16 @@ codigo Generate Teams(id del manifiesto):318d7949-c269-4dba-8449-98b5742f92a4
             },
 [NGROK] Url: https://c2ad-188-26-212-81.ngrok.io			
 
+***exer11***
+basado en el exercicio 10
+[NGROK] Url: https://ea59-188-26-212-81.ngrok.io
+[NGROK] Url: https://a13c-188-26-212-81.ngrok.io
+ [NGROK] Url: https://1224-188-26-212-81.ngrok.io
+https://38fa-188-26-212-81.ngrok.io
 
 
+***exer12***
+basado en el exercicio 10
 
 
 ***Exer13***
@@ -191,8 +199,19 @@ https://webnodelgm.azurewebsites.net
 https://webnodelgm.azurewebsites.net/auth-end
 secret16-myteamssso   ==> i9g7Q~eetJj8UOvXRs1PO0iBT315Ywg4z6sGz
 
-
 ***Exerc17***
 Aplication ID: fe37ab0c-9500-41a0-bb31-8a97679c86b4
 App service:teamsSSOapplgm
 URL: https://teamsssoapplgm.azurewebsites.net
+
+***Exerc18***
+Redireccion: https://token.botframework.com/.auth/web/redirect
+Aplication ID: fe37ab0c-9500-41a0-bb31-8a97679c86b4
+secret16-myteamssso   ==> i9g7Q~eetJj8UOvXRs1PO0iBT315Ywg4z6sGz
+SSO_CONNECTION_NAMEMyTeamsBot003OAuthConnection
+api://botid-fe37ab0c-9500-41a0-bb31-8a97679c86b4
+npm install @microsoft/microsoft-graph-client isomorphic-fetch jwt-decode -SE
+npm install @microsoft/microsoft-graph-types -DE
+[NGROK] Url: https://2baa-188-26-212-81.ngrok.io
+learnmsteamsssobot.azurewebsites.net
+https://2baa-188-26-212-81.ngrok.io/api/messages
