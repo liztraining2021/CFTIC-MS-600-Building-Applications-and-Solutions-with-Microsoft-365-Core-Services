@@ -1,0 +1,8 @@
+Alternativa al ejercico03 del LAB05, ya que el código está roto y no funciona
+https://docs.microsoft.com/en-us/office/dev/add-ins/quickstarts/powerpoint-quickstart?tabs=yeomangenerator
+****exer03 Lab05****
+Proyecto: MyFirtPowerPointAddIn
+Aplication ID:  5dd5ce0b-0f2f-462c-8a4e-8029c6a8f997
+https://login.microsoftonline.com/common/oauth2/nativeclient
+URI Redirect: urn:ietf:wg:oauth:2.0:oob
+
