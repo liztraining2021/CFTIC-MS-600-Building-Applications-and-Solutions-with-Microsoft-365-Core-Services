@@ -63,9 +63,27 @@
 
 # Ejercicio 4
 
+![Lab5-Ejer4-T1a](ZZ-lab/Lab5-Ejer4-T1a.PNG)
 
+![Lab5-Ejer4-T1b](ZZ-lab/Lab5-Ejer4-T1b.PNG)
 
+![Lab5-Ejer4-T1c](ZZ-lab/Lab5-Ejer4-T1c.PNG)
 
+![Lab5-Ejer4-T1d](ZZ-lab/Lab5-Ejer4-T1d.PNG)
+
+![Lab5-Ejer4-T1e](ZZ-lab/Lab5-Ejer4-T1e.PNG)
+
+![Lab5-Ejer4-T2a](ZZ-lab/Lab5-Ejer4-T2a.PNG)
+
+![Lab5-Ejer4-T2b](ZZ-lab/Lab5-Ejer4-T2b.PNG)
+
+![Lab5-Ejer4-T2c](ZZ-lab/Lab5-Ejer4-T2c.PNG)
+
+![Lab5-Ejer4-T2d](ZZ-lab/Lab5-Ejer4-T2d.PNG)
+
+![Lab5-Ejer4-T2e](ZZ-lab/Lab5-Ejer4-T2e.PNG)
+
+![Lab5-Ejer4-T2f](ZZ-lab/Lab5-Ejer4-T2f.PNG)
 
 
 

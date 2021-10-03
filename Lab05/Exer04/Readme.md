@@ -5,8 +5,6 @@
 
 
 
-# La practica del ejercicio 2 está realizado sobre el ejercicio 1 del Lab05
-
 
 
 
