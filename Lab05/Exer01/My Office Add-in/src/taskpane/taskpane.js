@@ -106,16 +106,25 @@ function createTable() {
           var currentWorksheet = context.workbook.worksheets.getActiveWorksheet();
           var expensesTable = currentWorksheet.tables.getItem('ExpensesTable');
           var dataRange = expensesTable.getDataBodyRange();
-          var sortFields = [
+         /* var sortFields = [
               {
                   key: 1,            // Merchant column
                   ascending: false,
               }
           ];
           expensesTable.sort.apply(sortFields);
-
+*/
           // TODO2: Queue command to create the chart and define its type.
+          var chart = currentWorksheet.charts.add('ColumnClustered', dataRange, 'auto');
           // TODO3: Queue commands to position and format the chart.
+          chart.setPosition("A15", "F30");
+          chart.title.text = "Expenses";
+          chart.legend.position = "right"
+          chart.legend.format.fill.setSolidColor("white");
+          chart.dataLabels.format.font.size = 15;
+          chart.dataLabels.format.font.color = "black";
+          chart.series.getItemAt(0).name = 'Value in €';
+          
           return context.sync();
       })
       .catch(function (error) {

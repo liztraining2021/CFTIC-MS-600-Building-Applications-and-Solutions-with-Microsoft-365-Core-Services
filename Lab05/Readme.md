@@ -20,38 +20,34 @@
 
 # Ejercicio 1
 
+![Lab5-Ejer1-T1a](ZZ-lab/Lab5-Ejer1-T1a.PNG)
 
+![Lab5-Ejer1-T1b](ZZ-lab/Lab5-Ejer1-T1b.PNG)
 
+![Lab5-Ejer1-T1c](ZZ-lab/Lab5-Ejer1-T1c.PNG)
 
-
-
-
-
-
-
-
-
+![Lab5-Ejer1-T1d](ZZ-lab/Lab5-Ejer1-T1d.PNG)
 
 
 
 
 # Ejercicio 2
 
+![Lab5-Ejer2-T1a](ZZ-lab/Lab5-Ejer2-T1a.PNG)
 
+![Lab5-Ejer2-T1b](ZZ-lab/Lab5-Ejer2-T1b.PNG)
 
+![Lab5-Ejer2-T1c](ZZ-lab/Lab5-Ejer2-T1c.PNG)
 
+![Lab5-Ejer2-T1d](ZZ-lab/Lab5-Ejer2-T1d.PNG)
 
+![Lab5-Ejer2-T1e](ZZ-lab/Lab5-Ejer2-T1e.PNG)
 
+![Lab5-Ejer2-T1f](ZZ-lab/Lab5-Ejer2-T1f.PNG)
 
-
-
-
-
-
+![Lab5-Ejer2-T1g](ZZ-lab/Lab5-Ejer2-T1g.PNG)
 
 # Ejercicio 3
-
-
 
 
 
