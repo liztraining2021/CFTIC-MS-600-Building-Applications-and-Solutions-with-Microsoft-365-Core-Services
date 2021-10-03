@@ -5,7 +5,13 @@
 
 
 
-# La practica del ejercicio 2 está realizado sobre el ejercicio 1 del Lab05
+# Alternative Project exercise 03 Lab05
+
+ ## https://docs.microsoft.com/en-us/office/dev/add-ins/quickstarts/powerpoint-quickstart?tabs=yeomangenerator
+
+
+
+## Este ejercicio es cambiado por un proyecto altenativo debido a que el código del ejercicio propuesto del ejercicio 03  no tenía los componetes actualizados y no funcionaba.
 
 
 

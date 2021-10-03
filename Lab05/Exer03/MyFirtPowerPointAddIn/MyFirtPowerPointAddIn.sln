@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirtPowerPointAddIn", "MyFirtPowerPointAddIn\MyFirtPowerPointAddIn.csproj", "{42E98197-0FCF-4A93-8B0D-400B88FA56A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirtPowerPointAddInWeb", "MyFirtPowerPointAddInWeb\MyFirtPowerPointAddInWeb.csproj", "{2710F5B0-EF2D-4BCA-9C44-F60C192B6877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42E98197-0FCF-4A93-8B0D-400B88FA56A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E98197-0FCF-4A93-8B0D-400B88FA56A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E98197-0FCF-4A93-8B0D-400B88FA56A4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{42E98197-0FCF-4A93-8B0D-400B88FA56A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E98197-0FCF-4A93-8B0D-400B88FA56A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E98197-0FCF-4A93-8B0D-400B88FA56A4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2710F5B0-EF2D-4BCA-9C44-F60C192B6877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2710F5B0-EF2D-4BCA-9C44-F60C192B6877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2710F5B0-EF2D-4BCA-9C44-F60C192B6877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2710F5B0-EF2D-4BCA-9C44-F60C192B6877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9863ED4B-F58E-4CF5-AB01-B4CBEA507137}
+	EndGlobalSection
+EndGlobal

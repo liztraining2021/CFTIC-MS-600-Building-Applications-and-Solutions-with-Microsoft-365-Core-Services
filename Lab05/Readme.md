@@ -49,15 +49,17 @@
 
 # Ejercicio 3
 
+![Lab5-Ejer3-T1a](ZZ-lab/Lab5-Ejer3-T1a.PNG)
 
+![Lab5-Ejer3-T1b](ZZ-lab/Lab5-Ejer3-T1b.PNG)
 
+![Lab5-Ejer3-T1c](ZZ-lab/Lab5-Ejer3-T1c.PNG)
 
+![Lab5-Ejer3-T1d](ZZ-lab/Lab5-Ejer3-T1d.PNG)
 
+![Lab5-Ejer3-T1e](ZZ-lab/Lab5-Ejer3-T1e.PNG)
 
-
-
-
-
+![Lab5-Ejer3-T1f](ZZ-lab/Lab5-Ejer3-T1f.PNG)
 
 # Ejercicio 4
 
